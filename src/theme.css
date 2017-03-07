@@ -1,9 +1,10 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro|Source+Code+Pro);
 
 body {
   padding: 0;
   margin: 0;
   background-color: rgb(253, 253, 253);
-  font-family: 'Trebuchet MS', 'Lucida Grande', 'Bitstream Vera Sans', 'Helvetica Neue', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 #benchmark-frame {
